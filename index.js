@@ -1,2 +1,3 @@
-console.log("Hello wORLD!");
-console.log("learning git and gitHub");
+console.log("Hello World!");
+console.log("learning git and GitHub");
+console.log("learning git and GitHub");
